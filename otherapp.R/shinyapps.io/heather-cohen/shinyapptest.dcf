@@ -1,0 +1,13 @@
+name: shinyapptest
+title: shinyapptest
+username:
+account: heather-cohen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 580514
+bundleId: 1709532
+url: https://heather-cohen.shinyapps.io/shinyapptest/
+when: 1542664007.34199
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: example2/app.R|movies/app.R|naaaame/app.R|reactivedatabase/app.R|reactivemean/app.R|Test/app.R
